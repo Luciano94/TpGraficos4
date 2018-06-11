@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+*.db
+
+GraficosTp4/\.vs/
